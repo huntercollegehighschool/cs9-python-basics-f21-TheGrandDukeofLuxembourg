@@ -12,5 +12,5 @@ Enter the height: 3
 The area of the triangle is 12.0
 
 '''
-
+base
 #start writing your code below
